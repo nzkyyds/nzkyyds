@@ -28,6 +28,7 @@ Yes, I know it’s usually written as **Jian Zhang** in English, but hey, I like
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+<!--
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nzkyyds&show_icons=true&theme=radical)
@@ -53,3 +54,5 @@ Yes, I know it’s usually written as **Jian Zhang** in English, but hey, I like
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+-->
