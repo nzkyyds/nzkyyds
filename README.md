@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-![Profile views](https://gpvc.arturio.dev/[YourUsername])
+![Profile views](https://gpvc.arturio.dev/nzkyyds)
 
 ## About Me
 
