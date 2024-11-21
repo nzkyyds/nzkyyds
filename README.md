@@ -1,6 +1,6 @@
 # Hi there, I'm ZHANG JIAN 👋
 
-🤩
+Yes, I know it’s usually written as **Jian Zhang** in English, but hey, I like it this way!
 
 ## About Me
 
